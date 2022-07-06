@@ -5,11 +5,10 @@ This repository does not contain any code since it would be impractical to store
 
 **Linux From Scratch** is a manual started by Gerard Beekmans that guides you through the creation of your own Linux os. The main reason I decided to make a **LFS** system was to understand Linux better. Linux is used across the entire software industry for its stability and versatility.
 
-[My progress in LFS](PROGRESS.md)
+<!-- [My progress in LFS](PROGRESS.md) -->
 > My LFS system is not currently finished.
 
-_Software demonstration video will be here when video is ready._
-<!-- [Software Demonstration]() -->
+[Software Demonstration](https://youtu.be/hTKsMmkf8HI)
 
 ### Development Environment
 For this project, I used:
